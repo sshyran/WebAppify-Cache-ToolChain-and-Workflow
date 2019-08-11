@@ -19,6 +19,18 @@ https://alistapart.com/article/application-cache-is-a-douchebag/
 https://github.com/sshyran/appcache-demo
 
 
+# PageSpeed OptimusPrime
+
+https://developers.google.com/web/
+
+https://developers.google.com/web/progressive-web-apps/
+
+https://developers.google.com/web/progressive-web-apps/desktop
+
+### Workbox 
+JavaScript libraries for Progressive Web Apps
+
+https://github.com/sshyran/workbox
 
 
 
