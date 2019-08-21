@@ -35,3 +35,17 @@ https://github.com/sshyran/workbox
 
 https://github.com/sshyran/webapp.go
 
+https://github.com/sshyran/werkzeug
+
+https://github.com/sshyran/gif2html5-app - check dependencies !!!!
+
+
+
+
+
+
+
+
+
+
+
